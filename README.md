@@ -2,4 +2,5 @@
 Бета проект по предмету (Программирование игр)
 
 Game Name: Vergil VS Demons (Да, Он будет использовать огнестрельное оружие)
-<img width="736" height="736" alt="Vergil" src="https://github.com/user-attachments/assets/e9511a55-6ae3-4e78-8731-94c8bd1edb93" />
+<img width="1254" height="1254" alt="photo_2026-10-17_00-33-14" src="https://github.com/user-attachments/assets/b4a821d9-a141-42e4-85a3-856d5137e91e" />
+<img width="737" height="364" alt="photo_2026-10-17_00-36-00" src="https://github.com/user-attachments/assets/f9ed1dcb-0d43-4d3e-8a9f-c42c3fe409e2" />
