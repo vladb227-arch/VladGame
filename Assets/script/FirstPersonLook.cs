@@ -3,7 +3,7 @@ using UnityEngine;
 public class FirstPersonLook : MonoBehaviour
 {
     [Header("Ссылки")]
-    public Transform cameraPivot;      // Ссылка на CameraPivot
+    public Transform cameraPivot;
 
     [Header("Настройки мыши")]
     public float mouseSensitivity = 150f;
